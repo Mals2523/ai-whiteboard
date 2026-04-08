@@ -43,6 +43,7 @@ const Whiteboard = () => {
   };
 
   return (
+    
     <canvas
       ref={canvasRef}
       style={{ background: "#fff", cursor: "crosshair" }}
